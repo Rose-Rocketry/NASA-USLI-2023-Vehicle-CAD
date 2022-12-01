@@ -1,0 +1,5 @@
+McMaster/
+
+# ignore SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
